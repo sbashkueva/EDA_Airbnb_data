@@ -1,5 +1,5 @@
 # 1. Introduction
-This analysis is based on the Kaggle data on Airbnb listings in 10 European cities.
+This analysis is based on the Kaggle **data on Airbnb listings in 10 European cities**.
 The project is focused on data exploration and visualization. 
 It includes analysis of the data structure, summary statistics across cities, factors influencing listing prices and ratings.
 
@@ -48,11 +48,11 @@ During analysis all files were concatenated into one DataFrame and the following
 * country (Categorical)
 * day (weekday / weekend) (Categorical)
 
-# 5. Used libraries in Python
+# 5. Used Python libraries
 * pandas
 * pandas_profiling
 * numpy
-* matplotlib
+* matplotlib.pyplot
 * seaborn
 * plotly.express
 * phik
